@@ -1,0 +1,39 @@
+BEHI PARA ELITE RECOVERY — APRESENTAÇÃO COMERCIAL INTERATIVA
+
+COMO ABRIR
+Extraia o ZIP completo e abra index.html no Chrome ou Edge. Mantenha assets, fonts e os demais arquivos na mesma pasta. Não é necessário instalar dependências, compilar ou iniciar um servidor.
+
+COMO APRESENTAR
+Navegue pela rolagem ou pelos capítulos na lateral. O botão “Modo apresentação” habilita as setas esquerda/direita para mudar de capítulo. Esc encerra esse modo.
+Na seção do site, a demonstração funciona dentro da apresentação. Alterne Computador/Celular ou abra em nova aba. No celular, a largura disponível prevalece.
+Os exemplos de posts e as cenas do roteiro têm botões de seleção. Os três planos do site abrem uma prévia de mensagem com um link para o WhatsApp REAL da Elite. O visitante precisa abrir o WhatsApp e enviar. Nenhuma mensagem é enviada automaticamente.
+
+O QUE É CONCEITUAL
+Conteúdo, identidade aplicada e layouts são propostas, não campanhas realizadas. A fotografia esportiva foi gerada com image_gen e é ilustrativa. Não representa cliente, profissional ou instalação real da Elite.
+Planos Basic, Performance e Premium são fictícios. Não foram informados preços, frequência, duração, serviços incluídos ou condições. Wellhub (antigo Gympass) depende de confirmação do credenciamento e elegibilidade. Não há integração com Wellhub.
+A cadência editorial é uma sugestão, sem promessa de alcance, leads ou vendas. O problema comercial ainda não foi diagnosticado.
+
+ESCOPO DO PROTÓTIPO
+HTML, CSS e JavaScript locais, fontes locais, GSAP e ScrollTrigger locais, sem frameworks ou rastreamento. Não há pagamento, agendamento, banco de dados, coleta de dados pessoais ou formulário persistente. Investimentos sugeridos, ainda não acordados: site R$ 2.400 e SEO inicial R$ 600, contratação única. Gestão do Instagram R$ 850/mês, 8 flyers R$ 560/mês e 4 vídeos R$ 480/mês. Todos selecionados: R$ 3.000 iniciais e R$ 1.890/mês. Os escopos e exclusões aparecem na seção Investimento. Sem prazo acordado. As páginas incluem noindex para desencorajar indexação caso a demo seja hospedada. Noindex não substitui controle de acesso.
+
+CONTATOS
+Elite Recovery: +55 11 99487-8739 / instagram.com/eliterecoveryy_/
+Behi: +55 11 91679-7661 / @behi.digital / behidigital.com.br
+
+ARQUIVOS
+index.html / style.css / app.js: apresentação da Behi.
+demo.html / demo-v2.css / demo-v2.js: site demonstrativo da Elite.
+investimento.js: valores e escopo dos cinco serviços.
+vendor/: GSAP 3.13.0 e ScrollTrigger, servidos localmente.
+assets/flyer-*.png: originais dos dois flyers demonstrativos, com visualização em WebP.
+assets/: logos originais fornecidos e fotografia ilustrativa.
+fonts/: fontes locais Inter e Montserrat.
+
+ANTES DA PUBLICAÇÃO COMERCIAL
+Validar conteúdo técnico, formato da consultoria, condições dos planos, direitos de uso dos materiais, eventual aceitação Wellhub e escopo de manutenção/hospedagem. Substituir a fotografia ilustrativa por material real quando disponível e aprovado.
+
+AJUSTAR PREÇOS
+Edite valores, títulos, escopos e observações em investimento.js. Os totais recalculam automaticamente. Ao mudar o preço dos pacotes, atualize também o valor unitário citado na observação e este guia. Nenhuma seleção contrata ou cobra automaticamente.
+
+MOVIMENTO
+A demo usa GSAP ScrollTrigger com revelações de texto/cards, parallax de imagens, faixa tipográfica e progresso do processo. O botão Pausar movimentos remove os efeitos. prefers-reduced-motion é respeitado. A rolagem continua nativa.
